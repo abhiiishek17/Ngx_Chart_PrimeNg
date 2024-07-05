@@ -7,7 +7,7 @@ import { DocumentationComponent } from './Components/documentation/documentation
 
 
 const routes: Routes = [
-  {path : '' , component :ProductDetailsComponentComponent },
+  {path : '' , component :WelcomePageComponent },
   {path : 'product-list' , component :ProductDetailsComponentComponent },
   {path : 'bar-chart' , component : BarChartComponent},
   {path : 'welcome' , component : WelcomePageComponent},
