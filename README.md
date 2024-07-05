@@ -25,3 +25,30 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
+
+# Project Name
+
+This project is an Angular application that includes a CRUD table and a dynamic bar chart visualization.
+
+## Features
+
+- Integration of PrimeNG for CRUD operations.
+- Usage of ngx-charts to display dynamic bar charts synchronized with the PrimeNG table.
+- Form handling with Angular's ReactiveFormsModule.
+- Modular application organization and reusable code practices.
+- Error handling and validation for user inputs.
+- Bootstrap is also used.
+
+## Developed By
+
+Abhishek Hirulkar
+
+## Additional Information
+
+- Version: 1.0.0
+- Date: 2024
+- Contact: abhishek@example.com
