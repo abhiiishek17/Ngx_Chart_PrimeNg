@@ -12,6 +12,7 @@ import { BarChartComponent } from './Components/bar-chart/bar-chart.component';
 import { ProductDetailsComponentComponent } from './Components/product-details-component/product-details-component.component';
 import { WelcomePageComponent } from './Components/welcome-page/welcome-page.component';
 import { DocumentationComponent } from './Components/documentation/documentation.component';
+import { HeaderComponent } from './Components/header/header.component';
 
 
 @NgModule({
@@ -21,6 +22,7 @@ import { DocumentationComponent } from './Components/documentation/documentation
     ProductDetailsComponentComponent,
     WelcomePageComponent,
     DocumentationComponent,
+    HeaderComponent,
   ],
   imports: [
     FormsModule,
