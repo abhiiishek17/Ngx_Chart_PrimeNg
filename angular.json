@@ -30,13 +30,16 @@
               "src/assets"
             ],
             "styles": [
-             "node_modules/primeng/resources/themes/saga-blue/theme.css",
-             "node_modules/primeng/resources/primeng.min.css",
-             "node_modules/primeicons/primeicons.css",
-             "src/styles.scss",
-             "src/assets/styles/styles.scss"
+              "node_modules/primeng/resources/themes/saga-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeicons/primeicons.css",
+              "src/styles.scss",
+              "src/assets/styles/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "allowedCommonJsDependencies": [
+              "rfdc"
+            ]
           },
           "configurations": {
             "production": {
@@ -97,11 +100,11 @@
               "src/assets"
             ],
             "styles": [
-             "node_modules/primeng/resources/themes/saga-blue/theme.css",
-             "node_modules/primeng/resources/primeng.min.css",
-             "node_modules/primeicons/primeicons.css",
-             "src/styles.scss",
-             "src/assets/styles/styles.scss"
+              "node_modules/primeng/resources/themes/saga-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeicons/primeicons.css",
+              "src/styles.scss",
+              "src/assets/styles/styles.scss"
             ],
             "scripts": []
           }
